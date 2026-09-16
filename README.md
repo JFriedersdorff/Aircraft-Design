@@ -17,7 +17,7 @@ streamlit
 3. develop seperate but integrated algorithms for further more detailed wing design, such as wing planform or airfoil design, perhaps through training a surrogate neural network on airfoil data, and performing a search space optimisation on a range of parameters to get an "optimal" starting point for a wing design
 
 #AI use:
-AI was used in a limited capacity for the development of this code, primarily for debugging and inquiries about syntax, such as for streamlit implementation
+a gemini LLM was used in a limited capacity for the development of this code, primarily for debugging and inquiries about syntax, such as for streamlit implementation
 
 #note:
 relations used to calculate constraint lines, as well as the general sizing procedure, were taken from course material from the AE1222-II Aerospace Design and Systems Engineering Elements course at TU Delft, in particular from "Airplane Design and Analysis" by Dr.ir. R. (Roelof) Vos.
